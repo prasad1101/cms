@@ -1,0 +1,21 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Ankita Pawar",
+      "phoneNo": 9625845488
+    },
+    {
+      "id": 4,
+      "name": "gauri pawar",
+      "phoneNo": 8525852585
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Customer1",
+      "phoneNo": 8625845488
+    }
+  ]
+}
